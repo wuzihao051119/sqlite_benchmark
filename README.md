@@ -6,7 +6,7 @@
 * OS: Windows 11 Pro for WorkStations
 
 ### Conclusion
-Test 100 cycles and delete 32000 records.
+Test 100 cycles and delete 32000 records in each cycle.
 
 When using
 ```sql
