@@ -1,0 +1,6 @@
+[submodule "uuid4"]
+	path = uuid4
+	url = https://github.com/gpakosz/uuid4.git
+[submodule "sqlite"]
+	path = sqlite
+	url = https://github.com/sqlite/sqlite
